@@ -87,7 +87,7 @@ Brick Breaker Arena is a classic arcade-style game where the player controls a p
 ## Credits
 - Developed as a university project for Computer Organization and Assembly Language (COAL).
 
-## COntributions
+## Contributions
 - Mohammad Faizan
 - Minha Rehman
 ---
